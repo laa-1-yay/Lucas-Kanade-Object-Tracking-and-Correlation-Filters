@@ -11,7 +11,7 @@ This project consists of five sections:
 
 ![1](/results/1.png)
 
-**Generalized to accommodate for large appearance variance**    
+**Generalized tracker to accommodate for large appearance variance**    
 ![1](/results/2.png)
 
 **Motion subtraction method for tracking moving pixels in a scene**    
